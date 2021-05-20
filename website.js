@@ -1,4 +1,4 @@
-import { Selector } from 'testcafe';
+import { Selector, ClientFunction } from 'testcafe';
 import { GetURL, GetLength } from './URL';
 const fs = require("fs");
 var Length = GetLength()
@@ -10,6 +10,9 @@ for (let i = 0; i < 12; i++) {
 
     test('My first test', async t => {
         await t
+        var CurrentURL = ClientFunction(() => window.location.href);
+        var CurrentURL = await CurrentURL();
+        // console.log(awaiturl)
         try {
             const productname = await Selector('.c-product-detail__product-name').innerText;
             const price = await Selector('.c-product-detail-infos__price-total').innerText;
@@ -20,7 +23,7 @@ for (let i = 0; i < 12; i++) {
 
                 var arrayOfObjects = JSON.parse(data)
                 arrayOfObjects.data.push({
-                    URL: URL,
+                    URL: CurrentURL,
                     ProductName: productname,
                     Price: price
                 })
@@ -46,7 +49,7 @@ for (let i = 0; i < 12; i++) {
 
                     var arrayOfObjects = JSON.parse(data)
                     arrayOfObjects.data.push({
-                        URL: URL,
+                        URL: CurrentURL,
                         ProductName: productname,
                         Price: avalability
                     })
@@ -68,7 +71,7 @@ for (let i = 0; i < 12; i++) {
 
                     var arrayOfObjects = JSON.parse(data)
                     arrayOfObjects.data.push({
-                        URL: URL,
+                        URL: CurrentURL,
                         ProductName: "Cant Find Product Name",
                         Price: "Cant Find Price"
                     })
