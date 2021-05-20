@@ -13,10 +13,32 @@ function GetURL() {
     return URLTOCHECK;
 }
 
+function GetProductNameElement() {
+
+
+    var ProductNameElement = ".c-product-detail__product-name"
+
+
+    return ProductNameElement;
+}
+
+function GetPriceElement() {
+
+
+    var PriceElement = ".c-product-detail-infos__price-total"
+
+    return PriceElement;
+}
+
 function GetLength() {
     var URLLENGTH = URL.length;
     console.log(URLLENGTH);
     return URLLENGTH;
 }
 
-export { GetURL, GetLength };
+export {
+    GetURL,
+    GetLength,
+    GetProductNameElement,
+    GetPriceElement
+};

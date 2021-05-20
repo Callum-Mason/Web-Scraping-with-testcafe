@@ -1,9 +1,20 @@
-import { Selector, ClientFunction } from 'testcafe';
-import { GetURL, GetLength } from './URL';
+import {
+    Selector,
+    ClientFunction
+} from 'testcafe';
+import {
+    GetURL,
+    GetLength,
+    GetProductNameElement,
+    GetPriceElement
+} from './URL';
 const fs = require("fs");
 var Length = GetLength()
 for (let i = 0; i < 12; i++) {
     var URL = GetURL()
+
+    var ProductNameElement = GetProductNameElement();
+    var PriceElement = GetPriceElement();
 
     fixture `Getting Started`
         .page `${URL}`;
@@ -14,8 +25,8 @@ for (let i = 0; i < 12; i++) {
         var CurrentURL = await CurrentURL();
         // console.log(awaiturl)
         try {
-            const productname = await Selector('.c-product-detail__product-name').innerText;
-            const price = await Selector('.c-product-detail-infos__price-total').innerText;
+            const productname = await Selector(`${ProductNameElement}`).innerText;
+            const price = await Selector(`${PriceElement}`).innerText;
             // console.log('Product Name: ' + productname + '\nPrice: ' + price)
 
             fs.readFile('./data.json', 'utf-8', function(err, data) {
@@ -40,7 +51,7 @@ for (let i = 0; i < 12; i++) {
             // console.log(URL[i])
         } catch {
             try {
-                const productname = await Selector('.c-product-detail__product-name').innerText;
+                const productname = await Selector(`${ProductNameElement}`).innerText;
                 const avalability = await Selector('.c-delivery-state__state').innerText;
                 // console.log('Product Name: ' + productname + '\nPrice: ' + price)
 
