@@ -1,44 +1,20 @@
 var fs = require("fs");
-var text = fs.readFileSync("URL.txt").toString('utf-8');
-URL = text.split("\r\n")
 
-function GetURL() {
-    // CreateArray()
+var obj = JSON.parse(fs.readFileSync("url.json").toString('utf-8'));
 
-    var URLTOCHECK = URL[0]
+function GetObject() {
+    var URLTOCHECK = obj[0].URL
+    var ProductNameElement = obj[0].ProductNameElement;
+    var PriceElement = obj[0].PriceElement;
+    var AvalabilityElement = obj[0].AvalabilityElement;
+    obj.shift();
+    return {
+        URLTOCHECK,
+        ProductNameElement,
+        PriceElement,
+        AvalabilityElement
+    }
 
-    URL.shift();
-    // console.log(URLTOCHECK)
-
-    return URLTOCHECK;
 }
 
-function GetProductNameElement() {
-
-
-    var ProductNameElement = ".c-product-detail__product-name"
-
-
-    return ProductNameElement;
-}
-
-function GetPriceElement() {
-
-
-    var PriceElement = ".c-product-detail-infos__price-total"
-
-    return PriceElement;
-}
-
-function GetLength() {
-    var URLLENGTH = URL.length;
-    console.log(URLLENGTH);
-    return URLLENGTH;
-}
-
-export {
-    GetURL,
-    GetLength,
-    GetProductNameElement,
-    GetPriceElement
-};
+export { GetObject };
