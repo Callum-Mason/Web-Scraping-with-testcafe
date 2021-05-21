@@ -1,73 +1,84 @@
 [{
-    "URL": "https://www.nettoshop.ch/it/Elettrodomestici-grandi-apparecchi/Cottura-in-forno-su-piastra-e-al-vapore-alla-griglia/Vetroceramica-e-piastre-di-cottura/Vetroceramica-con-telaio/Bauknecht-ETK-5240-IN-400V-Piano-di-cottura/p/IP117460",
-    "PriceElement": ".c-product-detail-infos__price-total",
-    "ProductNameElement": ".c-product-detail__product-name",
-    "AvalabilityElement": ".c-delivery-state__state"
+        "URL": "https://www.nettoshop.ch/it/Elettrodomestici-grandi-apparecchi/Cottura-in-forno-su-piastra-e-al-vapore-alla-griglia/Vetroceramica-e-piastre-di-cottura/Vetroceramica-con-telaio/Bauknecht-ETK-5240-IN-400V-Piano-di-cottura/p/IP117460",
+        "PriceElement": ".c-product-detail-infos__price-total",
+        "ProductNameElement": ".c-product-detail__product-name",
+        "AvalabilityElement": ".c-delivery-state__state"
 
-}, {
-    "URL": "https://www.nettoshop.ch/Haushalt-Grossger%C3%A4te/Backen-Kochen-und-Steamen-Grillen/Dunstabzugshauben/Dunstabzug-Einbau-EU-Norm-60cm/Dunstabzug-Einbau-EU-Norm-60cm-bis-30kg/Bauknecht-DC-5460-1-Dunstabzugshaube-Edelstahl/p/IP094654",
-    "PriceElement": ".c-product-detail-infos__price-total",
-    "ProductNameElement": ".c-product-detail__product-name",
-    "AvalabilityElement": ".c-delivery-state__state"
+    },
 
-}, {
-    "URL": "https://www.nettoshop.ch/Haushalt-Grossger%C3%A4te/Backen-Kochen-und-Steamen-Grillen/Glaskeramik-und-Kochstellen/Glaskeramik-Rahmen/Bauknecht-ETK-5240-IN-400V-Kochfeld/p/IP117460",
-    "PriceElement": ".c-product-detail-infos__price-total",
-    "ProductNameElement": ".c-product-detail__product-name",
-    "AvalabilityElement": ".c-delivery-state__state"
+    {
+        "URL": "https://www.hughes.co.uk/product/kitchen-appliances/built-in-appliances/built-in-oven/beko/bbtf26300x",
+        "PriceElement": ".price--content",
+        "ProductNameElement": ".product--title",
+        "AvalabilityElement": ".gtm-product-buy-button"
 
-}, {
-    "URL": "https://www.nettoshop.ch/Haushalt-Grossger%C3%A4te/Backen-Kochen-und-Steamen-Grillen/Backofen-und-Herde/Backofen-Einbau-EU-Norm-60cm/Bauknecht-BIK7-EH8VS-PT-Backofen/p/IP080042",
-    "PriceElement": ".c-product-detail-infos__price-total",
-    "ProductNameElement": ".c-product-detail__product-name",
-    "AvalabilityElement": ".c-delivery-state__state"
+    },
 
-}, {
-    "URL": "https://www.nettoshop.ch/Haushalt-Grossger%C3%A4te/Backen-Kochen-und-Steamen-Grillen/Backofen-und-Herde/Backofen-Einbau-EU-Norm-60cm/Bauknecht-BIK7-EN8VS-PT-Backofen/p/IP080045",
-    "PriceElement": ".c-product-detail-infos__price-total",
-    "ProductNameElement": ".c-product-detail__product-name",
-    "AvalabilityElement": ".c-delivery-state__statee"
+    {
+        "URL": "https://www.nettoshop.ch/Haushalt-Grossger%C3%A4te/Backen-Kochen-und-Steamen-Grillen/Dunstabzugshauben/Dunstabzug-Einbau-EU-Norm-60cm/Dunstabzug-Einbau-EU-Norm-60cm-bis-30kg/Bauknecht-DC-5460-1-Dunstabzugshaube-Edelstahl/p/IP094654",
+        "PriceElement": ".c-product-detail-infos__price-total",
+        "ProductNameElement": ".c-product-detail__product-name",
+        "AvalabilityElement": ".c-delivery-state__state"
 
-}, {
-    "URL": "https://www.nettoshop.ch/Haushalt-Grossger%C3%A4te/K%C3%BChlen-und-Gefrieren/K%C3%BChlschrank-Einbau/Einbau-EU-Norm-60cm-vollintegriert/Bauknecht-KVIE-2263-K%C3%BChlschrank-rechts/p/IP080361",
-    "PriceElement": ".c-product-detail-infos__price-total",
-    "ProductNameElement": ".c-product-detail__product-name",
-    "AvalabilityElement": ".c-delivery-state__state"
+    }, {
+        "URL": "https://www.nettoshop.ch/Haushalt-Grossger%C3%A4te/Backen-Kochen-und-Steamen-Grillen/Glaskeramik-und-Kochstellen/Glaskeramik-Rahmen/Bauknecht-ETK-5240-IN-400V-Kochfeld/p/IP117460",
+        "PriceElement": ".c-product-detail-infos__price-total",
+        "ProductNameElement": ".c-product-detail__product-name",
+        "AvalabilityElement": ".c-delivery-state__state"
 
-}, {
-    "URL": "https://www.nettoshop.ch/it/Elettrodomestici-grandi-apparecchi/Cottura-in-forno-su-piastra-e-al-vapore-alla-griglia/Forni-e-cucine/Forni-da-incasso-norma-EU-60cm/Bauknecht-BIK7-EN8VS-PT-Forno/p/IP080045",
-    "PriceElement": ".c-product-detail-infos__price-total",
-    "ProductNameElement": ".c-product-detail__product-name",
-    "AvalabilityElement": ".c-delivery-state__state"
+    }, {
+        "URL": "https://www.nettoshop.ch/Haushalt-Grossger%C3%A4te/Backen-Kochen-und-Steamen-Grillen/Backofen-und-Herde/Backofen-Einbau-EU-Norm-60cm/Bauknecht-BIK7-EH8VS-PT-Backofen/p/IP080042",
+        "PriceElement": ".c-product-detail-infos__price-total",
+        "ProductNameElement": ".c-product-detail__product-name",
+        "AvalabilityElement": ".c-delivery-state__state"
 
-}, {
-    "URL": "https://www.nettoshop.ch/fr/M%C3%A9nage-grands-appareils/Laver-la-vaisselle/Lave-vaisselle-encastrable/Norme-EU-60cm-total-int%C3%A9grable/Bauknecht-BCIO-3T333-DELS-CH-Lave-vaisselle/p/IP086572",
-    "PriceElement": ".c-product-detail-infos__price-total",
-    "ProductNameElement": ".c-product-detail__product-name",
-    "AvalabilityElement": ".c-delivery-state__state"
+    }, {
+        "URL": "https://www.nettoshop.ch/Haushalt-Grossger%C3%A4te/Backen-Kochen-und-Steamen-Grillen/Backofen-und-Herde/Backofen-Einbau-EU-Norm-60cm/Bauknecht-BIK7-EN8VS-PT-Backofen/p/IP080045",
+        "PriceElement": ".c-product-detail-infos__price-total",
+        "ProductNameElement": ".c-product-detail__product-name",
+        "AvalabilityElement": ".c-delivery-state__statee"
 
-}, {
-    "URL": "https://www.nettoshop.ch/fr/M%C3%A9nage-grands-appareils/Laver-la-vaisselle/Lave-vaisselle-encastrable/Norme-EU-60cm-int%C3%A9grable/Bauknecht-BCBO-3T333-DL-X-CH-Lave-vaisselle/p/IP080293",
-    "PriceElement": ".c-product-detail-infos__price-total",
-    "ProductNameElement": ".c-product-detail__product-name",
-    "AvalabilityElement": ".c-delivery-state__state"
+    }, {
+        "URL": "https://www.nettoshop.ch/Haushalt-Grossger%C3%A4te/K%C3%BChlen-und-Gefrieren/K%C3%BChlschrank-Einbau/Einbau-EU-Norm-60cm-vollintegriert/Bauknecht-KVIE-2263-K%C3%BChlschrank-rechts/p/IP080361",
+        "PriceElement": ".c-product-detail-infos__price-total",
+        "ProductNameElement": ".c-product-detail__product-name",
+        "AvalabilityElement": ".c-delivery-state__state"
 
-}, {
-    "URL": "https://www.nettoshop.ch/fr/M%C3%A9nage-grands-appareils/Laver-la-vaisselle/Lave-vaisselle-encastrable/Norme-EU-60cm-total-int%C3%A9grable/Bauknecht-BCIO-3T333-DES-CH-Lave-vaisselle/p/IP086573",
-    "PriceElement": ".c-product-detail-infos__price-total",
-    "ProductNameElement": ".c-product-detail__product-name",
-    "AvalabilityElement": ".c-delivery-state__statee"
+    }, {
+        "URL": "https://www.nettoshop.ch/it/Elettrodomestici-grandi-apparecchi/Cottura-in-forno-su-piastra-e-al-vapore-alla-griglia/Forni-e-cucine/Forni-da-incasso-norma-EU-60cm/Bauknecht-BIK7-EN8VS-PT-Forno/p/IP080045",
+        "PriceElement": ".c-product-detail-infos__price-total",
+        "ProductNameElement": ".c-product-detail__product-name",
+        "AvalabilityElement": ".c-delivery-state__state"
 
-}, {
-    "URL": "https://www.nettoshop.ch/fr/M%C3%A9nage-grands-appareils/Laver-la-vaisselle/Lave-vaisselle-encastrable/45cm-total-int%C3%A9grable/Bauknecht-BSIO-3O35-PFE-X-CH-Lave-vaisselle/p/IP117987",
-    "PriceElement": ".c-product-detail-infos__price-total",
-    "ProductNameElement": ".c-product-detail__product-name",
-    "AvalabilityElement": ".c-delivery-state__state"
+    }, {
+        "URL": "https://www.nettoshop.ch/fr/M%C3%A9nage-grands-appareils/Laver-la-vaisselle/Lave-vaisselle-encastrable/Norme-EU-60cm-total-int%C3%A9grable/Bauknecht-BCIO-3T333-DELS-CH-Lave-vaisselle/p/IP086572",
+        "PriceElement": ".c-product-detail-infos__price-total",
+        "ProductNameElement": ".c-product-detail__product-name",
+        "AvalabilityElement": ".c-delivery-state__state"
 
-}, {
-    "URL": "https://www.nettoshop.ch/fr/M%C3%A9nage-grands-appareils/Cuire-faire-bouillir-et-cuire-%C3%A0-la-vapeur-au-grill/Fours-et-cuisini%C3%A8res/Cuisini%C3%A8re-%C3%A0-pose-libre/Indesit-I6VMC6A%28X%29-GR-Cuisini%C3%A8re-inox/p/IP120757",
-    "PriceElement": ".c-product-detail-infos__price-total",
-    "ProductNameElement": ".c-product-detail__product-name",
-    "AvalabilityElement": ".c-delivery-state__state"
+    }, {
+        "URL": "https://www.nettoshop.ch/fr/M%C3%A9nage-grands-appareils/Laver-la-vaisselle/Lave-vaisselle-encastrable/Norme-EU-60cm-int%C3%A9grable/Bauknecht-BCBO-3T333-DL-X-CH-Lave-vaisselle/p/IP080293",
+        "PriceElement": ".c-product-detail-infos__price-total",
+        "ProductNameElement": ".c-product-detail__product-name",
+        "AvalabilityElement": ".c-delivery-state__state"
 
-}]
+    }, {
+        "URL": "https://www.nettoshop.ch/fr/M%C3%A9nage-grands-appareils/Laver-la-vaisselle/Lave-vaisselle-encastrable/Norme-EU-60cm-total-int%C3%A9grable/Bauknecht-BCIO-3T333-DES-CH-Lave-vaisselle/p/IP086573",
+        "PriceElement": ".c-product-detail-infos__price-total",
+        "ProductNameElement": ".c-product-detail__product-name",
+        "AvalabilityElement": ".c-delivery-state__statee"
+
+    }, {
+        "URL": "https://www.nettoshop.ch/fr/M%C3%A9nage-grands-appareils/Laver-la-vaisselle/Lave-vaisselle-encastrable/45cm-total-int%C3%A9grable/Bauknecht-BSIO-3O35-PFE-X-CH-Lave-vaisselle/p/IP117987",
+        "PriceElement": ".c-product-detail-infos__price-total",
+        "ProductNameElement": ".c-product-detail__product-name",
+        "AvalabilityElement": ".c-delivery-state__state"
+
+    }, {
+        "URL": "https://www.nettoshop.ch/fr/M%C3%A9nage-grands-appareils/Cuire-faire-bouillir-et-cuire-%C3%A0-la-vapeur-au-grill/Fours-et-cuisini%C3%A8res/Cuisini%C3%A8re-%C3%A0-pose-libre/Indesit-I6VMC6A%28X%29-GR-Cuisini%C3%A8re-inox/p/IP120757",
+        "PriceElement": ".c-product-detail-infos__price-total",
+        "ProductNameElement": ".c-product-detail__product-name",
+        "AvalabilityElement": ".c-delivery-state__state"
+
+    }
+]
